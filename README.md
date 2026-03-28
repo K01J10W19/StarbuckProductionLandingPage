@@ -60,6 +60,7 @@ src/
 │   └── ...
 ├── App.jsx         # Main application entry and routing logic
 └── theme.css       # Centralized Tailwind variables and fluid configurations
+```
 
 ---
 
