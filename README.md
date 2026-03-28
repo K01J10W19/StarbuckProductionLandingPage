@@ -66,23 +66,23 @@ src/
 
 ## Getting Started
 
-# 1. Clone the repository
+### 1. Clone the repository
 git clone [https://github.com/your-username/starbucks-project.git](https://github.com/your-username/starbucks-project.git)
 
-# 2. Install dependencies
+### 2. Install dependencies
 npm install
 
-# 3. Start development server (Laboratory Mode)
+### 3. Start development server (Laboratory Mode)
 npm run dev
 
-# 4. Build for production (Factory Check)
+### 4. Build for production (Factory Check)
 npm run build
 
 ---
 
 ## Responsive Strategy
 
-The project features pixel-perfect optimizations across the following key breakpoints:
+## The project features pixel-perfect optimizations across the following key breakpoints:
 
 * **390px (Mobile)**: Single-column layout with horizontal-scroll category tabs.
 
