@@ -82,7 +82,7 @@ npm run build
 
 ## Responsive Strategy
 
-## The project features pixel-perfect optimizations across the following key breakpoints:
+### The project features pixel-perfect optimizations across the following key breakpoints:
 
 * **390px (Mobile)**: Single-column layout with horizontal-scroll category tabs.
 
